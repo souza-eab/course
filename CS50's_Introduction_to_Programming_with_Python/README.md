@@ -1,5 +1,9 @@
 
+![Github](https://img.shields.io/badge/Github-0.0.1-green.svg)<br/>
+<img src='./cs50p.png' height='auto' width='auto' align='left'>
+<div>
 # [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/#how-to-take-this-course)
+
 
 # _Workflow_
 ## 1   - _Introduction_
