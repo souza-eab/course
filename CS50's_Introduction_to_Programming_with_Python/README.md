@@ -1,6 +1,5 @@
 
-# CS50's Introduction to Programming with Python  
-[EDX HarvadX CS50P](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
+# CS50's Introduction to Programming with Python | [HarvadX CS50P](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home)
 
 # _Workflow_
 ## 1   - _Introduction_
