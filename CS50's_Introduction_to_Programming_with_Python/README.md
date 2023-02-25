@@ -1,7 +1,7 @@
-
+<img src='./cs50p.png' height='auto' width='auto' align='right'>
 
 # [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/#how-to-take-this-course)
-<img src='./cs50p.png' height='auto' width='auto' align='right'>
+
 
 
 # _Workflow_
