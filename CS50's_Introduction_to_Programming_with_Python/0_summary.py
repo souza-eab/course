@@ -1,5 +1,5 @@
-## 0 - Introduction
-## 1 - Functions, Variables
-## 3 - Conditionals
-## 4 - Loops
-## 5 - Exceptions
+## 1 - Introduction
+## 1.3 - Functions, Variables
+## 2.0 - Conditionals
+## 3. - Loops
+## 4. - Exceptions
